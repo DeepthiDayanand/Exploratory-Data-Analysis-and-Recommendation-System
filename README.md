@@ -7,7 +7,7 @@ ratings.dat contains attributes UserID, MovieID, Rating and Timestamp.
 users.dat contains attributes UserID, Gender, Age, Occupation and Zip-code for each user.
 movies.dat contain attributes MovieID, Title and Genres.
 
-###Libraries used include
+##Libraries used include
 
 <li> Pandas: Used for data manipulation and analysis. </li>
 <li>Numpy: Provides flexibility in dealing with multi-dimensional arrays and complex mathematical functions.</li>
